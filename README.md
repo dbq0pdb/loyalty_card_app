@@ -1,5 +1,6 @@
 # loyalty_card_app
-A Python application for accessing UK supermarket loyalty card registration links.
+
+A simple application that will open all UK supermarkets loyalty card programs for students to apply for, Working on functionality to auto fill these applications based on a form the user will fill out. Eventually i want to inlcude convience / fastfood stores.
 
 ## Features
 - Displays a table with information about different supermarket loyalty card programs.
@@ -7,7 +8,27 @@ A Python application for accessing UK supermarket loyalty card registration link
 - Options to select all card programs, export links, and clear the selection.
 - User-friendly interface with professional design.
 
+## Image
+
+![Index](./assets/index.png)
+
+## Table of Contents
+
+- Installation
+- Usage
+- Contributing
+- License
+
+## Installation
+
+Clone the repository
+> git clone https://github.com/dbq0pdb/loyalty_card_app
+
+Cd to project 
+> cd loyalty_card_app
+
 ## Usage
+
 #### Short
 1. Run the app by double-clicking the "loyalty_card_app.exe" file.
    - Running the executable file (`loyalty_card_app.exe`) by double-clicking is the easiest way to launch the application.
@@ -29,3 +50,11 @@ A Python application for accessing UK supermarket loyalty card registration link
 - Include convenience stores and fast-food chains.
 - Enhanced user interface with advanced styling and icons.
 - Search and sorting functionality for easier navigation.
+
+## Contributing
+
+N/A
+
+## License
+
+N/A
