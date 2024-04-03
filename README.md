@@ -10,7 +10,7 @@ A simple application that will open all UK supermarkets loyalty card programs fo
 
 ## Image
 
-![Index](./assets/index.png)
+![Index](./assets/app.png)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ Cd to project
 1. Install Python and clone/download the loyalty_card_app repository.
 2. Navigate to the project directory.
 3. Install dependencies: `pip install -r requirements.txt`.
-4. Run the app: `python loyalty_card_app.py`.
+4. Run the app: `python3 loyalty_card_app.py`.
 5. Select card programs in the table.
 6. Click "Open Selected Links" to open registration links in your browser.
 7. Additional options: "Select All", "Export Links", "Clear Selection".
